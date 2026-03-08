@@ -1,0 +1,134 @@
+# Peko Beauty
+
+> Peko Beauty（肌源解碼 · 定義您的原生美學）是位於香港旺角朗豪坊的高端醫學美容中心。中心提供基於 AI 皮膚分析的個人化醫美療程，採用 BTL Exion™、Sylfirm X、Hollywood Spectra™ 等國際頂尖原廠儀器。全女班醫療團隊，平均擁有超過 10 年臨床經驗，主張效果為本、數據先行、絕無 Hard Sell，並保障 100% 原廠正貨。Google 評分 4.9 ★，服務超過 5,000 名滿意客戶。
+
+---
+
+## 重要頁面
+
+- [首頁](https://www.peko.com.hk/): 品牌介紹、VISIA 皮膚分析、皇牌療程展示、成功案例及客戶好評
+- [關於 Peko Beauty](https://www.peko.com.hk/about): 品牌故事、創辦理念、四大核心承諾、團隊介紹、品牌時間軸
+- [全部療程](https://www.peko.com.hk/treatments): 所有醫美療程列表，含技術說明及試做價格
+- [VISIA 皮膚深層分析](https://www.peko.com.hk/treatments/visia-skin-analysis): 免費第 7 代 VISIA 8 大維度皮膚分析說明
+- [肌膚困擾](https://www.peko.com.hk/concerns): 按皮膚問題分類推薦療程（8 大分類各有獨立頁面）
+- [最新優惠](https://www.peko.com.hk/offers): 當前試做優惠及限時促銷詳情
+- [醫美專欄 Journal](https://www.peko.com.hk/blog): 醫美知識文章、療程解析、護膚資訊
+- [常見問題 FAQ](https://www.peko.com.hk/faq): 品牌安全、療程效果、預約流程及術後護理解答
+- [預約諮詢](https://www.peko.com.hk/booking): 線上3步驟預約系統（填寫個人資料、選擇療程、選擇日期時間）
+- [聯絡我們](https://www.peko.com.hk/contact): 聯絡方式、地圖位置、聯絡表格
+- [私隱政策](https://www.peko.com.hk/privacy): 個人資料收集及使用政策
+- [服務條款](https://www.peko.com.hk/terms): 網站及服務使用條款
+
+---
+
+## 皇牌儀器療程
+
+- [Sylfirm X 矽谷電波](https://www.peko.com.hk/treatments/sylfirm-x): 第 2 代雙波 (PW/CW) 雙極射頻微針。修復受損基底膜，針對凹凸洞、荷爾蒙斑、暗瘡紅印、玫瑰痤瘡。恢復期僅 4-6 小時。試做價 HK$1,880（原價 HK$4,000）。
+- [BTL Exion™ 面+眼+頸](https://www.peko.com.hk/treatments/btl-exion): 單極射頻 + 靶向超聲波 + AI 智能控溫。臨床實證激生透明質酸 +224%、膠原蛋白 +47%。無痛無創提升蘋果肌及緊緻輪廓。試做價 HK$680（原價 HK$2,200）。
+- [BTL Exion™ 黃金微針](https://www.peko.com.hk/treatments/btl-exion-microneedle): AI Fractional RF 黃金微針，Single Pass 技術，精準針對嚴重凹凸洞、深層皺紋及皮膚鬆弛。試做價 HK$2,980（原價 HK$5,800）。
+- [BTL Exion™ Body 身體塑形](https://www.peko.com.hk/treatments/btl-exion-body): 單極射頻 + 靶向超聲波，溶脂+緊膚+激生三效合一，針對肚腩、拜拜肉、大腿鬆弛。試做價 HK$680/部位（原價 HK$1,800）。
+- [BTL Exion™ 眼部](https://www.peko.com.hk/treatments/btl-exion-eye): 眼袋小熨斗，專為眼周設計，單極射頻 + 超聲波改善眼袋、黑眼圈、眼紋及眼皮鬆弛。試做價 HK$380（原價 HK$1,200）。
+- [XE LHA Peel 玻璃肌](https://www.peko.com.hk/treatments/xe-lha-peel): 第四代鹼性煥膚，獨家 Fill & Peel 概念，邊煥膚邊填充。零脫皮，針對暗瘡印、粗糙肌及敏感肌。試做價 HK$980（原價 HK$1,980）。
+- [Ulfit HIFU 緊緻拉提](https://www.peko.com.hk/treatments/ulfit-hifu): 第 4 代 MFU TDT 擴散式加熱技術。獨有圓形探頭，筋膜層強力提拉，無痛無需敷麻。500 發試做價 HK$1,480（原價 HK$3,800）。
+- [Venus Glow™ 水漾活膚](https://www.peko.com.hk/treatments/venus-glow): 360° 旋轉真空吸力結合雙條 70 微米極幼水流，非物理擠壓清理油脂及黑頭。即時發光效果。試做價 HK$480（原價 HK$1,280）。
+- [BTL EMfemme 360 私密修復](https://www.peko.com.hk/treatments/btl-emfemme-360): 360 度體積式溫控射頻，改善陰道鬆弛、尿滲及黏膜健康。全女班主理，一次性安全探頭。試做價 HK$3,680（原價 HK$8,800）。
+- [DEP 無針水光](https://www.peko.com.hk/treatments/dep-mesotherapy): 電穿孔技術將透明質酸、維他命 C 等活性成分導入真皮層。媲美水光針效果，無針無痛零恢復期。試做價 HK$980（原價 HK$1,980）。
+
+---
+
+## Hollywood Spectra™ 激光系列
+
+**頁面：** [Hollywood Spectra™ 激光療程](https://www.peko.com.hk/treatments/hollywood-spectra-laser)（包含以下 5 個子療程）
+
+- **Spectra™ Laser Facial 美白嫩膚**：1064nm Q-switched，HyperSurge 技術，打散黑色素均勻膚色。試做 HK$880（原價 HK$1,800）。
+- **Spectra™ Golden Laser 消退紅印**：585nm Gold Toning，精準靶向血紅素，消退 PIE 紅印及玫瑰痤瘡泛紅。試做 HK$1,280（原價 HK$2,480）。
+- **Spectra™ 蜂巢無創膠原**：MLA Fractional / LIOB 熱誘空泡技術，不破皮重啟修復機制，改善凹凸洞及毛孔。試做 HK$980（原價 HK$1,980）。
+- **Spectra™ Carbon Peel 炭粉控油**：碳粉吸光瞬爆帶走油脂污垢，即時收縮皮脂腺，深層殺菌控油。試做 HK$880（原價 HK$1,800）。
+- **Spectra™ 色斑治療**：532nm + 1064nm 雙波長，定點精準擊碎表層至深層色素（雀斑 / 老人斑 / 顴痣）。試做 HK$880（原價 HK$1,800）。
+
+---
+
+## 肌膚困擾分類（各有獨立頁面）
+
+- [凹凸洞 / 深層皺紋](https://www.peko.com.hk/concerns/pores-wrinkles): 推薦 Sylfirm X、BTL Exion 黃金微針
+- [色斑 / 荷爾蒙斑](https://www.peko.com.hk/concerns/pigmentation): 推薦 Sylfirm X、Hollywood Spectra Laser Facial
+- [蘋果肌下垂 / 鬆弛](https://www.peko.com.hk/concerns/sagging): 推薦 BTL Exion 面+眼+頸、Ulfit HIFU
+- [暗瘡印 / 毛孔粗大](https://www.peko.com.hk/concerns/acne-scars): 推薦 Sylfirm X、Hollywood Spectra、XE LHA Peel
+- [泛紅 / 玫瑰痤瘡](https://www.peko.com.hk/concerns/redness): 推薦 Sylfirm X、Hollywood Spectra Golden Laser
+- [黑眼圈 / 眼紋 / 眼袋](https://www.peko.com.hk/concerns/eye-dark-circles): 推薦 BTL Exion™ Eye
+- [瘦身修形 / 溶脂](https://www.peko.com.hk/concerns/body-slimming): 推薦 BTL Exion™ Body
+- [私密健康護理](https://www.peko.com.hk/concerns/intimate-care): 推薦 BTL EMfemme 360
+
+---
+
+## 品牌資訊
+
+**全名：** Peko Beauty  
+**品牌標語：** 肌源解碼 · 定義您的原生美學  
+**官方網站：** https://www.peko.com.hk  
+**創立：** 2025 年  
+**地址：** 香港旺角亞皆老街 8 號朗豪坊辦公室大樓 40 樓 02 室  
+**地鐵：** 旺角站 C 出口（東鐵綫 / 荃灣綫），步行約 5 分鐘
+**Google Maps：** https://maps.app.goo.gl/PNEjSMsQ66Ax7ohX9
+
+**營業時間：**  
+- 星期一至五：11:30 – 20:30  
+- 星期六：10:00 – 19:00  
+- 公眾假期：11:00 – 18:00  
+- 星期日：休息
+
+**聯絡方式：**  
+- WhatsApp（即時回覆）：+852 5335 3313 | https://wa.me/85253353313  
+- 電話：+852 2662 2092  
+- 電郵：info@peko.com.hk
+
+**社交媒體：**  
+- Instagram：https://www.instagram.com/pekobeauty_official/ (@pekobeauty_official)  
+- Facebook：https://www.facebook.com/pekobeauty/  
+- Threads：https://www.threads.com/@pekobeauty_official  
+- YouTube：https://www.youtube.com/@PekoBeauty
+
+---
+
+## 四大核心承諾（Brand DNA）
+
+1. **肌源解碼方案（AI-Powered Analysis）：** 採用 VISIA 第 7 代皮膚影像分析系統，8 大維度精準偵測底層色斑、毛孔、紋理、紫外線損傷及血管狀況，AI 配對最佳療程組合，制定個人化治療計劃。
+
+2. **拒絕單次無效消費（Result-Oriented）：** 強調皮膚修復週期，提供具延續性的療程方案，效果層層遞進。拒絕盲目推銷，絕無 Hard Sell，收入唯一來源是療程效果。
+
+3. **原廠正貨保證（100% Authentic）：** 所有儀器及耗材 100% 原廠認證。探頭即場開封、當場掃碼核實序列號。BTL 官方指定合作中心、Lutronic 認證合作夥伴、Venus 官方合作商。
+
+4. **高私隱全女班（All-Female Team & Privacy）：** 全體治療師均為女性，平均擁有超過 10 年臨床及國際認證經驗。設有獨立私密房間，敏感或私密療程安心進行。
+
+---
+
+## 品質指標
+
+- Google 評分：4.9 ★
+- 客戶滿意度：98%+
+- 累計服務客戶：5,000+
+- 美國 FDA / 歐盟 CE 國際認證儀器
+- 美國 VISIA 第 7 代皮膚分析儀
+- 非入侵性技術為主
+
+---
+
+## 技術關鍵詞對照
+
+| 療程名稱 | 核心技術 | 主要功效 |
+|---------|---------|---------|
+| Sylfirm X 矽谷電波 | Dual Wave RF Microneedling (PW/CW) | 凹凸洞、荷爾蒙斑、玫瑰痤瘡 |
+| BTL Exion 面+眼+頸 | Monopolar RF + Targeted Ultrasound + AI | 透明質酸+224%、膠原+47%、提升緊緻 |
+| BTL Exion 黃金微針 | AI Fractional RF Microneedling（Single Pass）| 嚴重凹凸洞、深層皺紋 |
+| BTL Exion Body | Monopolar RF + Targeted Ultrasound | 溶脂+緊膚+激生三效、身體鬆弛 |
+| BTL Exion Eye | Monopolar RF + Ultrasound（眼周版）| 眼袋、黑眼圈、眼紋 |
+| XE LHA Peel | 第四代鹼性煥膚 LHA Fill & Peel | 暗瘡印、敏感肌、玻璃肌 |
+| Ulfit HIFU | MFU TDT Diffused Heating HIFU | 筋膜層提拉、V 面輪廓 |
+| Venus Glow™ | 360° Rotary Vacuum + Dual 70μm Jet Streams | 黑頭、油脂清潔、即時亮白 |
+| BTL EMfemme 360 | 360° Volumetric Temperature-Controlled RF | 私密處修復、陰道緊緻 |
+| DEP 無針水光 | Dermal Electroporation 電穿孔 | 媲美水光針、深層補水亮膚 |
+| Spectra™ Laser Facial | 1064nm Q-Switched Nd:YAG + HyperSurge | 美白、去斑、膚色均勻 |
+| Spectra™ Golden Laser | 585nm Gold Toning | 泛紅 (PIE)、玫瑰痤瘡 |
+| Spectra™ 蜂巢無創膠原 | MLA Fractional LIOB | 不破皮換膚、收毛孔、凹凸洞 |
+| Spectra™ Carbon Peel | 1064nm Laser + Carbon Lotion | 控油殺菌、深層清潔 |
+| Spectra™ 色斑治療 | 532nm + 1064nm High Energy Q-switched | 雀斑、老人斑、顴痣 |

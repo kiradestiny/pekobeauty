@@ -1,0 +1,86 @@
+[
+  {
+    "id": "sylfirm-x",
+    "title": "Sylfirm X 矽谷電波",
+    "subtitle": "凹凸洞與荷爾蒙斑專家",
+    "description": "第 2 代雙波微針射頻，專利技術修復基底膜，針對凹凸洞、荷爾蒙斑、紅印及玫瑰痤瘡。原廠探頭即場開封，4-6小時極速退紅。",
+    "price": "試做價 HK$1,880"
+  },
+  {
+    "id": "btl-exion-face",
+    "title": "BTL Exion 面+眼+頸",
+    "subtitle": "激生 +224% 透明質酸",
+    "description": "結合單極射頻與靶向超聲波，AI 控溫技術激生 +224% 透明質酸及 +47% 膠原，無痛提升蘋果肌，解決鬆弛皺紋。",
+    "price": "試做價 HK$680"
+  },
+  {
+    "id": "btl-exion-rf",
+    "title": "BTL Exion 黃金微針",
+    "subtitle": "AI 脈衝針對嚴重凹凸洞",
+    "description": "AI Fractional RF 技術，單次通過技術減少痛感。精準針對深層皺紋、嚴重凹凸洞及皮膚鬆弛問題。",
+    "price": "試做價 HK$2,980"
+  },
+  {
+    "id": "btl-exion-body",
+    "title": "BTL Exion Body",
+    "subtitle": "Monopolar RF + Targeted Ultrasound",
+    "description": "針對肚腩、拜拜肉、大腿脂肪及鬆弛問題。",
+    "price": "試做價 HK$680/part"
+  },
+  {
+    "id": "btl-exion-eye",
+    "title": "BTL Exion Eye",
+    "subtitle": "Monopolar RF + Ultrasound",
+    "description": "針對眼袋、黑眼圈、眼紋及眼皮鬆弛問題。",
+    "price": "試做價 HK$380"
+  },
+  {
+    "id": "xe-lha-peel",
+    "title": "XE LHA Peel 玻璃肌",
+    "subtitle": "第四代鹼性煥膚",
+    "description": "獨家 Fill & Peel 概念，邊煥膚邊填充。零脫皮，針對暗瘡印、粗糙及敏感肌，打造即時發光玻璃肌。",
+    "price": "試做價 HK$980"
+  },
+  {
+    "id": "ulfit-hifu",
+    "title": "Ulfit HIFU 緊緻拉提",
+    "subtitle": "TDT 擴散式加熱無痛 V 面",
+    "description": "第 4 代擴散式加熱技術，獨有圓形探頭靈活修飾輪廓，筋膜層強力提拉，無痛無需敷麻。",
+    "price": "試做價 HK$1,480"
+  },
+  {
+    "id": "venus-glow",
+    "title": "Venus Glow™ 水漾活膚",
+    "subtitle": "70微米水流深層淨化",
+    "description": "360° 旋轉真空吸力結合 70 微米極幼水流，非物理擠壓清理油脂黑頭，即時呈現 Glow 發光效果。",
+    "price": "試做價 HK$480"
+  },
+  {
+    "id": "emfemme-360",
+    "title": "BTL EMfemme 360",
+    "subtitle": "私密處修復專家",
+    "description": "360 度環迴溫控射頻，改善陰道鬆弛、尿滲及黏膜健康。全女班主理，使用一次性探頭。",
+    "price": "試做價 HK$3,680"
+  },
+  {
+    "id": "hs-laser-facial",
+    "title": "HS Laser Facial",
+    "subtitle": "美白嫩膚去斑",
+    "description": "Hollywood Spectra 激光技術，極速打散黑色素，針對面黃、膚色不均及荷爾蒙斑，能量溫和不反黑。",
+    "price": "試做價 HK$880"
+  },
+  {
+    "id": "hs-golden-laser",
+    "title": "HS Golden Laser",
+    "subtitle": "針對泛紅及玫瑰痤瘡",
+    "description": "獨家 585nm Gold Toning 技術，精準針對血紅素與微血管，消退紅印 (PIE) 及玫瑰痤瘡泛紅。",
+    "price": "試做價 HK$1,280"
+  },
+  {
+    "id": "dep-mesotherapy",
+    "title": "DEP 無針水光",
+    "subtitle": "電穿孔深層導入",
+    "description": "利用電穿孔技術開啟細胞通道，將透明質酸、維他命C等活性成分直接導入真皮層，無針無痛，即時補水亮膚。",
+    "price": "試做價 HK$980"
+  }
+]
